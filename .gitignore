@@ -1,0 +1,9 @@
+# Mac Stuff
+.DS_Store
+
+# Binarys
+*.com
+*.o
+*.so
+*.exe
+*.dll
